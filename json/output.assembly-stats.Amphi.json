@@ -5,6 +5,12 @@
    "scaffolds" : [
       18871614
    ],
+   "busco" : { 
+      "C": 85.6,
+      "D": 5.9,
+      "F": 3.6,
+      "M": 10.9
+      "n": 954},
    "binned_contig_counts" : [
       1,
       1,
