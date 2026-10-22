@@ -1,13 +1,7 @@
-{
-   "N" : 0,
+{   "N" : 0,
    "scaffolds" : [
       26694701
    ],
-   "busco": {"C":82.0,
-         "D":3.9,
-         "F":6.7,
-         "M":11.3,
-         "n":672},
    "assembly" : 212396507,
    "GC" : 42.11,
    "binned_scaffold_counts" : [
